@@ -1,5 +1,7 @@
 
-https://lvl090.github.io/cartasReact/
+Práctica con React (rutas, importaciones y creación de componente) + tailwind 
+
+
 
 
 
