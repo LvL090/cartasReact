@@ -2,6 +2,7 @@
 Práctica con React (rutas, importaciones y creación de componente) + tailwind 
 
 
+![Captura de pantalla de 2022-06-01 11-42-53](https://user-images.githubusercontent.com/99020950/171377177-20f1f9dd-0e90-4e2d-a1cc-141f014bca3e.png)
 
 
 
